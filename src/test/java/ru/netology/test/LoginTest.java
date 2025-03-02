@@ -1,10 +1,10 @@
-package ru.netology.Test;
+package ru.netology.test;
 
 import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-import ru.netology.Page.LoginPage;
+import ru.netology.page.LoginPage;
 import ru.netology.data.DataHelper;
 import ru.netology.data.SQLHelper;
 
